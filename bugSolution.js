@@ -1,0 +1,1 @@
+function foo(a, b, epsilon = 0.00001) {  return Math.abs(a - b) < epsilon;} 
